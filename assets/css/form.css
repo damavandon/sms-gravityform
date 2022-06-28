@@ -1,0 +1,22 @@
+.payamito-gf-otp-field{
+    width: 25% !important;
+   
+}
+.payamito-gf-none{
+    display: none !important;
+}
+.payamito-gf-block{
+    display: block !important;
+}
+.payamito-gf-inline-block{
+    display: inline-block !important;
+}
+.payamito-gf-opt-button{
+    color: white;
+    padding: 10px;
+    margin-right: 2px;
+    background: black;
+    border: 0px;
+    border-radius: 2px;
+    cursor: pointer;
+}

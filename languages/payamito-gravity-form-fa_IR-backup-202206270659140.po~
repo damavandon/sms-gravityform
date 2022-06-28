@@ -1,0 +1,2117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Payamito:Gravity Forms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-27 18:36+0430\n"
+"PO-Revision-Date: 2022-06-27 06:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bootstrap.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.1; wp-6.0\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin/class-settings.php:171 inc/admin/class-settings.php:182
+msgid "Gravity Forms"
+msgstr "گرویتی فرم"
+
+#: inc/admin/class-settings.php:175
+msgid "There is no active form. Create at least one form"
+msgstr "هیچ گونه فرمی یافت نشد، لطفا یک فرم ایجاد نمایید"
+
+#: inc/admin/class-settings.php:187 inc/admin/class-settings.php:190
+#: inc/admin/class-settings.php:459
+msgid "Verification"
+msgstr "تایید شماره موبایل "
+
+#: inc/admin/class-settings.php:195 inc/admin/class-settings.php:496
+#: inc/admin/class-settings.php:600 inc/admin/class-settings.php:714
+#: inc/admin/class-settings.php:782 inc/admin/class-settings.php:862
+#: inc/admin/class-settings.php:932 inc/admin/class-settings.php:1011
+#: inc/admin/class-settings.php:1081
+msgid "\"notice\" send pattern need to help"
+msgstr ""
+"\"توجه\" به صورت پیشفرض توصیه می شود گزینه ارسال پترن فعال شود و در صورتیکه "
+"با این بخش آشنایی ندارید لطفا با پشتیبانی پیامیتو تماس بگیرید"
+
+#: inc/admin/class-settings.php:228 inc/admin/class-settings.php:1147
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: inc/admin/class-settings.php:233
+msgid "OTP"
+msgstr "کد تایید"
+
+#: inc/admin/class-settings.php:234
+msgid "Wordpress title"
+msgstr ""
+
+#: inc/admin/class-settings.php:241 inc/admin/class-settings.php:386
+#: inc/admin/class-settings.php:758 inc/admin/class-settings.php:826
+#: inc/admin/class-settings.php:907 inc/admin/class-settings.php:976
+#: inc/admin/class-settings.php:1056 inc/admin/class-settings.php:1125
+msgid "Your tag"
+msgstr "تگ شما"
+
+#: inc/admin/class-settings.php:252
+msgid "کاربر گرامی کد تایید ثبت نام {OTP} می باشد. "
+msgstr ""
+
+#: inc/admin/class-settings.php:256
+msgid "Use {OTP},{site-name} tags"
+msgstr ""
+
+#: inc/admin/class-settings.php:260
+msgid "Number of OTP code"
+msgstr "تعداد ارقام کد تایید"
+
+#: inc/admin/class-settings.php:261
+msgid "Number of OTP code that you want send for user"
+msgstr ""
+"مشخص نمایید که تعداد کد تایید ارسالی در پیامک برای کاربر چند رقمی باشد."
+
+#: inc/admin/class-settings.php:276
+msgid "Send Again"
+msgstr "ارسال مجدد کد تایید"
+
+#: inc/admin/class-settings.php:277
+msgid "When you want the user to re-request OTP."
+msgstr ""
+"پس از چه مدت گزینه ارسال مجدد کد تایید برای کاربر فعال شود ( به ثانیه )"
+
+#: inc/admin/class-settings.php:291
+msgid "OTP field title"
+msgstr "عنوان فیلد تایید شماره موبایل"
+
+#: inc/admin/class-settings.php:298
+msgid "OTP field Placeholder"
+msgstr "متن داخل فیلد تایید شماره موبایل"
+
+#: inc/admin/class-settings.php:330
+msgid "Fields"
+msgstr ""
+
+#: inc/admin/class-settings.php:330 inc/admin/class-settings.php:332
+msgid "Defualt"
+msgstr "پیشفرض"
+
+#: inc/admin/class-settings.php:380 inc/admin/class-settings.php:450
+#: inc/admin/class-settings.php:472 inc/admin/class-settings.php:752
+#: inc/admin/class-settings.php:819 inc/admin/class-settings.php:900
+#: inc/admin/class-settings.php:969 inc/admin/class-settings.php:1049
+#: inc/admin/class-settings.php:1118
+msgid "Select tag"
+msgstr "انتخاب برچسب"
+
+#: inc/admin/class-settings.php:401
+msgid "There is no field"
+msgstr ""
+
+#: inc/admin/class-settings.php:407 inc/admin/class-settings.php:464
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/link_color/link_color.php:38
+#: inc/lib/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr "فعالسازی"
+
+#: inc/admin/class-settings.php:428
+msgid "Admin phone number"
+msgstr "افزودن شماره موبایل ادمین"
+
+#: inc/admin/class-settings.php:435
+msgid "Admin Phone number "
+msgstr "شماره موبایل ادمین"
+
+#: inc/admin/class-settings.php:449
+msgid "User phone number"
+msgstr "فیلد دریافتی شماره موبایل کاربر"
+
+#: inc/admin/class-settings.php:471
+msgid "Verification Field"
+msgstr "فیلد تایید شماره موبایل"
+
+#: inc/admin/class-settings.php:479
+msgid "Submit form SMS"
+msgstr "ارسال پیامک تایید ارسال فرم"
+
+#: inc/admin/class-settings.php:484
+msgid "Admin"
+msgstr "ادمین"
+
+#: inc/admin/class-settings.php:490
+msgid "Admin SMS active"
+msgstr "فعالسازی ارسال پیامک به مدیر"
+
+#: inc/admin/class-settings.php:513
+msgid "Admin SMS"
+msgstr "محتویات پیامک ارسالی به ادمین"
+
+#: inc/admin/class-settings.php:514 inc/admin/class-settings.php:619
+#: inc/admin/class-settings.php:766 inc/admin/class-settings.php:835
+#: inc/admin/class-settings.php:916 inc/admin/class-settings.php:985
+#: inc/admin/class-settings.php:1065 inc/admin/class-settings.php:1134
+msgid ""
+"مشتری گرامی پرداخت شما با کد پیگیری {transaction_id} با موفقیت انجام شد."
+msgstr ""
+
+#: inc/admin/class-settings.php:538 inc/admin/class-settings.php:643
+msgid "Conditional"
+msgstr "استفاده از شرط در ارسال پیامک"
+
+#: inc/admin/class-settings.php:545 inc/admin/class-settings.php:650
+#: inc/core/payamito-core/admin/class-sent.php:122
+#: inc/core/payamito-core/admin/class-sent.php:132
+#: inc/core/payamito-core/admin/class-sent.php:141
+msgid "All"
+msgstr "همه"
+
+#: inc/admin/class-settings.php:546 inc/admin/class-settings.php:651
+msgid "Any"
+msgstr "هیچ کدام"
+
+#: inc/admin/class-settings.php:549
+msgid "Send SMS to admin if"
+msgstr "ارسال پیام به ادمین اگر"
+
+#: inc/admin/class-settings.php:550 inc/admin/class-settings.php:656
+msgid "Conditions is true"
+msgstr "شرط بالا درست باشد"
+
+#: inc/admin/class-settings.php:555 inc/admin/class-settings.php:661
+msgid "Admin conditional"
+msgstr "شرط ادمین"
+
+#: inc/admin/class-settings.php:569 inc/admin/class-settings.php:675
+#: inc/core/payamito-core/admin/settings/register_setting.php:165
+msgid "Is"
+msgstr "هست"
+
+#: inc/admin/class-settings.php:570 inc/admin/class-settings.php:676
+#: inc/core/payamito-core/admin/settings/register_setting.php:164
+msgid "Is not"
+msgstr "نیست"
+
+#: inc/admin/class-settings.php:571 inc/admin/class-settings.php:677
+msgid "Greater than"
+msgstr "بزرگتر از"
+
+#: inc/admin/class-settings.php:572 inc/admin/class-settings.php:678
+msgid "Less than"
+msgstr "کمتر از"
+
+#: inc/admin/class-settings.php:573 inc/admin/class-settings.php:679
+msgid "Contains"
+msgstr "شامل"
+
+#: inc/admin/class-settings.php:574 inc/admin/class-settings.php:680
+msgid "Starts with"
+msgstr "شروع شده باشد"
+
+#: inc/admin/class-settings.php:575 inc/admin/class-settings.php:681
+msgid "Ends with"
+msgstr "به پایان میرسد با"
+
+#: inc/admin/class-settings.php:581 inc/admin/class-settings.php:687
+msgid "Value"
+msgstr "مقدار"
+
+#: inc/admin/class-settings.php:588
+msgid "User"
+msgstr "کاربر"
+
+#: inc/admin/class-settings.php:593
+msgid "User SMS active"
+msgstr "فعالسازی ارسال پیامک به کاربر"
+
+#: inc/admin/class-settings.php:655
+msgid "Send SMS to user if"
+msgstr "ارسال پیامک به کاربر اگر"
+
+#: inc/admin/class-settings.php:694
+msgid "Payment SMS"
+msgstr "ارسال پیامک پرداخت ها"
+
+#: inc/admin/class-settings.php:702
+msgid "Completed"
+msgstr "ارسال پیامک زمانیکه پرداخت در فرم کامل شد"
+
+#: inc/admin/class-settings.php:707 inc/admin/class-settings.php:855
+#: inc/admin/class-settings.php:1004
+msgid "Send to admin"
+msgstr "ارسال به ادمین"
+
+#: inc/admin/class-settings.php:765 inc/admin/class-settings.php:915
+#: inc/admin/class-settings.php:1064
+msgid "Admin message"
+msgstr "متن پیام ارسالی به ادمین"
+
+#: inc/admin/class-settings.php:775 inc/admin/class-settings.php:925
+#: inc/admin/class-settings.php:1074
+msgid "Send to user"
+msgstr "ارسال به کاربر"
+
+#: inc/admin/class-settings.php:834 inc/admin/class-settings.php:984
+#: inc/admin/class-settings.php:1133
+msgid "User message"
+msgstr "متن پیام ارسالی به کاربر"
+
+#: inc/admin/class-settings.php:845 inc/admin/class-settings.php:850
+#: inc/core/payamito-core/admin/settings/register_setting.php:197
+msgid "Failed"
+msgstr "ارسال پیامک زمانیکه پرداخت در فرم با شکست روبرو شد"
+
+#: inc/admin/class-settings.php:994
+msgid "Cancell"
+msgstr "زمانیکه فرم پرداخت کنسل شد"
+
+#: inc/admin/class-settings.php:999
+msgid "Cancelled"
+msgstr "ارسال پیامک به فرم های پرداخت که کنسل می شوند"
+
+#: inc/class-functions.php:29
+msgid "Payment Method"
+msgstr "روش های پرداخت"
+
+#: inc/class-functions.php:30
+msgid "Payment Status"
+msgstr "وضعیت پرداخت"
+
+#: inc/class-functions.php:31
+msgid "Transaction Id"
+msgstr "کد پیگیری"
+
+#: inc/class-functions.php:32
+msgid "IP"
+msgstr "آی پی کاربر"
+
+#: inc/class-functions.php:33
+msgid "Date (dd/mm/yyyy)"
+msgstr "تاریخ (dd/mm/yyyy)"
+
+#: inc/class-functions.php:34
+msgid "Embed Post/Page Id"
+msgstr ""
+
+#: inc/class-functions.php:35
+msgid "Embed Post/Page Title"
+msgstr ""
+
+#: inc/class-functions.php:36
+msgid "Embed URL"
+msgstr ""
+
+#: inc/class-functions.php:37
+msgid "Entry URL"
+msgstr "لینک وارد شده"
+
+#: inc/class-functions.php:38
+msgid "Form Id"
+msgstr "آیدی فرم"
+
+#: inc/class-functions.php:39
+msgid "Form Title"
+msgstr "عنوان فرم"
+
+#: inc/class-functions.php:40
+msgid "User Display Name"
+msgstr "نمایش نام کاربر"
+
+#: inc/class-functions.php:41
+msgid "User Email"
+msgstr "ایمیل کاربر"
+
+#: inc/class-functions.php:42
+msgid "User Login"
+msgstr "کاربر ورود کرده"
+
+#: inc/class-plugins-required.php:61
+msgid ""
+" Plugin Payamito:Gravity Forms requires the installation of Gravity forms"
+msgstr ""
+
+#: inc/class-send.php:31 inc/core/payamito-core/includes/utils/functions.php:85
+msgid "success"
+msgstr "موفق"
+
+#: inc/class-send.php:62
+msgid "Not Fount Message"
+msgstr ""
+
+#: inc/class-submit-form.php:285 inc/class-submit-form.php:292
+#, php-format
+msgid "Sending an SMS to phone number  %s was accompanied by this message| %s"
+msgstr ""
+
+#: inc/class-submit-form.php:296
+msgid "Payamito"
+msgstr "پیامیتو"
+
+#: inc/class-verification.php:73 inc/class-verification.php:273
+#, php-format
+msgid "Please wait %s seconds"
+msgstr ""
+"لطفا %s ثانیه صبر کنید\n"
+
+#: inc/class-verification.php:120
+msgid "Mobile number is incorrect"
+msgstr ""
+
+#: inc/class-verification.php:121
+msgid "OTP sent successfully"
+msgstr "کد یکبار مصرف با موفقیت ارسال شد"
+
+#: inc/class-verification.php:122
+msgid "Failed to send OTP "
+msgstr "ارسال کد یکبار مصرف شکست خورد"
+
+#: inc/class-verification.php:123
+msgid "An unexpected error occurred. Please contact support "
+msgstr "یک خطای غیرمنتظره رخ داد. لطفا با پشتیبانی تماس بگیرید"
+
+#: inc/class-verification.php:124 inc/class-verification.php:164
+msgid "Enter OTP number "
+msgstr "کد تایید را وارد نمایید"
+
+#: inc/class-verification.php:125
+msgid " OTP is Incorrect "
+msgstr ""
+
+#: inc/class-verification.php:126
+msgid ""
+"The message could not be sent due to incorrect settings. Please contact "
+"support"
+msgstr "به دلیل تنظیمات نادرست پیام ارسال نشد. لطفا با پشتیبانی تماس بگیرید"
+
+#: inc/class-verification.php:154
+msgid "Resend"
+msgstr "ارسال مجدد"
+
+#: inc/class-verification.php:155
+msgid "Send OTP success"
+msgstr "کد یکبار مصرف با موفقیت ارسال شد"
+
+#: inc/class-verification.php:156
+msgid "Send OTP failed"
+msgstr "ارسال کد یکبار مصرف شکست خورد"
+
+#: inc/class-verification.php:157
+msgid "Send request failed please contact with support team "
+msgstr "درخواست ارسال نشد لطفا با تیم پشتیبانی تماس بگیرید"
+
+#: inc/class-verification.php:158 inc/class-verification.php:159
+msgid "OTP is wrong"
+msgstr "کد یکبار مصرف اشتباه است"
+
+#: inc/class-verification.php:160
+msgid "Mobile number is incorrct"
+msgstr "شماره موبایل اشتباه است"
+
+#: inc/class-verification.php:161
+msgid "Error"
+msgstr "خطا"
+
+#: inc/class-verification.php:162
+#: inc/core/payamito-core/admin/class-sent.php:123
+#: inc/core/payamito-core/admin/class-sent.php:271
+#: inc/core/payamito-core/admin/settings/register_setting.php:196
+msgid "Success"
+msgstr "موفق"
+
+#: inc/class-verification.php:163
+msgid "Warning"
+msgstr "هشدار"
+
+#: inc/class-verification.php:165
+msgid "Second"
+msgstr "ثانیه"
+
+#: inc/class-verification.php:217
+msgid "Please enter a valide mobile number in Field related to mobile number"
+msgstr "لطفا یک شماره موبایل معتبر در قسمت مربوط به شماره موبایل وارد کنید"
+
+#: inc/class-verification.php:298
+#, php-format
+msgid ""
+"A message containing the verification code was sent to %s. Enter the "
+"verification code in the box above"
+msgstr "پیامی حاوی کد تأیید به %s ارسال شد. کد تایید را در کادر بالا وارد کنید"
+
+#: inc/core/payamito-core/admin/class-other-plugins.php:15
+msgid "پیامک ووکامرس"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-other-plugins.php:21
+msgid "پیامک گراویتی فرم"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-other-plugins.php:28
+msgid "پیامک افزونه تیکت"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-other-plugins.php:34
+msgid "پیامک ایزی دیجیتال دانلود EDD"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-other-plugins.php:40
+msgid "پیامک آلتیمیت ممبر"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-other-plugins.php:46
+msgid "پیامک دکان"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-payamito-admin.php:84
+#: inc/core/payamito-core/admin/class-sent.php:483
+msgid "There is no records"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-payamito-admin.php:92
+msgid "Downloading"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-payamito-admin.php:97
+msgid "Payamito logs"
+msgstr "گزارشات پیامیتو"
+
+#: inc/core/payamito-core/admin/class-payamito-admin.php:97
+msgid "Logs"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:31
+#: inc/core/payamito-core/admin/class-sent.php:32
+msgid "SMS"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:40
+msgid "There is no SMS"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:50
+#: inc/core/payamito-core/admin/class-sent.php:327
+msgid "Delete"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:96
+msgid "Log Export"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:98
+msgid "You can output the desired reports using the following options"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:105
+msgid "columns"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:106
+msgid "Columns"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:107
+#: inc/core/payamito-core/admin/class-sent.php:307
+msgid "ID"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:108
+#: inc/core/payamito-core/admin/class-sent.php:120
+#: inc/core/payamito-core/admin/class-sent.php:121
+#: inc/core/payamito-core/admin/class-sent.php:308
+#: inc/core/payamito-core/admin/settings/register_setting.php:195
+#: inc/lib/class-tgm-plugin-activation.php:2647
+#, fuzzy
+#| msgid "Payment Status"
+msgid "Status"
+msgstr "وضعیت پرداخت"
+
+#: inc/core/payamito-core/admin/class-sent.php:109
+#: inc/core/payamito-core/admin/class-sent.php:153
+#: inc/core/payamito-core/admin/class-sent.php:309
+msgid "Reciever"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:110
+#: inc/core/payamito-core/admin/class-sent.php:134
+#: inc/core/payamito-core/admin/class-sent.php:228
+#: inc/core/payamito-core/admin/class-sent.php:310
+msgid "Message"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:111
+#: inc/core/payamito-core/admin/class-sent.php:130
+#: inc/core/payamito-core/admin/class-sent.php:131
+#: inc/core/payamito-core/admin/class-sent.php:311
+#, fuzzy
+#| msgid "Payment Method"
+msgid "Method"
+msgstr "روش های پرداخت"
+
+#: inc/core/payamito-core/admin/class-sent.php:112
+#: inc/core/payamito-core/admin/class-sent.php:138
+#: inc/core/payamito-core/admin/class-sent.php:312
+msgid "Operative"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:113
+#: inc/core/payamito-core/admin/class-sent.php:313
+msgid "Date"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:124
+#, fuzzy
+#| msgid "Failed"
+msgid "Filed"
+msgstr "ارسال پیامک زمانیکه پرداخت در فرم با شکست روبرو شد"
+
+#: inc/core/payamito-core/admin/class-sent.php:133
+#: inc/core/payamito-core/admin/class-sent.php:225
+msgid "Pattern"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:140
+msgid "Operative:"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:142
+#: inc/core/payamito-core/admin/class-sent.php:282
+msgid "Easy digital downloads"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:143
+#: inc/core/payamito-core/admin/class-sent.php:285
+msgid "Ultimate member"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:144
+#: inc/core/payamito-core/admin/class-sent.php:288
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:145
+#: inc/core/payamito-core/admin/class-sent.php:291
+msgid "Vendor verification"
+msgstr "تایید شماره موبایل"
+
+#: inc/core/payamito-core/admin/class-sent.php:146
+#: inc/core/payamito-core/admin/class-sent.php:294
+#, fuzzy
+#| msgid "Gravity Forms"
+msgid "Gravity form"
+msgstr "گرویتی فرم"
+
+#: inc/core/payamito-core/admin/class-sent.php:147
+#: inc/core/payamito-core/admin/class-sent.php:297
+msgid "Awesome Support"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:161
+msgid " Limit"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:167
+msgid "Export"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:192
+msgid "<a href='#'>All</a>"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:193
+msgid "<a href='#'>Published</a>"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:194
+msgid "<a href='#'>Success</a>"
+msgstr "موفق"
+
+#: inc/core/payamito-core/admin/class-sent.php:195
+msgid "<a href='#'>Failed</a>"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:300
+msgid "Undefind"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:328
+msgid "Export(Excel)"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:390
+msgid "Item removed."
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:398
+msgid "Items removed."
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:456
+msgid "Please select at least one item"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:570
+msgid "id"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:571
+msgid "reciever"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:572
+#, fuzzy
+#| msgid "Payment Method"
+msgid "method"
+msgstr "روش های پرداخت"
+
+#: inc/core/payamito-core/admin/class-sent.php:573
+msgid "slug"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:574
+msgid "status"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:575
+#, fuzzy
+#| msgid "User message"
+msgid "message"
+msgstr "متن پیام ارسالی به کاربر"
+
+#: inc/core/payamito-core/admin/class-sent.php:576
+msgid "date"
+msgstr ""
+
+#: inc/core/payamito-core/admin/class-sent.php:662
+#, fuzzy
+#| msgid "Payamito"
+msgid "Payamito SMS"
+msgstr "پیامیتو"
+
+#: inc/core/payamito-core/admin/class-sent.php:678
+msgid "Search"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:230
+msgid "Error while saving the changes."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:290
+msgid "Settings successfully imported."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:302
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:318
+msgid "Default settings restored."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:389
+msgid "Settings saved."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:570
+msgid "You have unsaved changes, save your changes!"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:572
+msgid "show all settings"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:574
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/icon/icon.php:57
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/map/map.php:23
+msgid "Search..."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:577
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:703
+msgid "Save"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:577
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:703
+msgid "Saving..."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:578
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:704
+msgid "Reset Section"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:578
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:704
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:579
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:705
+msgid "Reset All"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:579
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:705
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/comment-options.class.php:216
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/metabox-options.class.php:294
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/backup/backup.php:31
+#, fuzzy
+#| msgid "Resend"
+msgid "Reset"
+msgstr "ارسال مجدد"
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:579
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:705
+msgid "Are you sure you want to reset all settings to default values?"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/admin-options.class.php:680
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/comment-options.class.php:199
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/metabox-options.class.php:277
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/button_set/button_set.php:56
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/checkbox/checkbox.php:76
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/radio/radio.php:75
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/select/select.php:113
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/actions.php:41
+msgid "No data available."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/comment-options.class.php:217
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/metabox-options.class.php:295
+msgid "update post"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/comment-options.class.php:217
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/metabox-options.class.php:295
+#, fuzzy
+#| msgid "Cancell"
+msgid "Cancel"
+msgstr "زمانیکه فرم پرداخت کنسل شد"
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/setup.class.php:599
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/setup.class.php:600
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/setup.class.php:601
+msgid "Searching..."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/setup.class.php:602
+msgid "No results found."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/setup.class.php:703
+msgid "Oops! Not allowed."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/setup.class.php:771
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/setup.class.php:775
+msgid "Field not found!"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/shortcode-options.class.php:253
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/group/group.php:23
+msgid "Add New"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/classes/shortcode-options.class.php:290
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/actions.php:16
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/actions.php:68
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/actions.php:106
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/actions.php:141
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/actions.php:170
+msgid "Error: Invalid nonce verification."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:36
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/media/media.php:59
+msgid "Not selected"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:72
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/date/date.php:31
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/datetime/datetime.php:36
+msgid "From"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:90
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/date/date.php:32
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/datetime/datetime.php:37
+msgid "To"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:108
+msgid "Direction"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:114
+msgid "Gradient Direction"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:115
+msgid "&#8659; top to bottom"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:116
+msgid "&#8658; left to right"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:117
+msgid "&#8664; corner top to right"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:118
+msgid "&#8665; corner top to left"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:161
+msgid "Background Position"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:162
+msgid "Left Top"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:163
+msgid "Left Center"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:164
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:165
+msgid "Center Top"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:166
+msgid "Center Center"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:167
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:168
+msgid "Right Top"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:169
+msgid "Right Center"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:170
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:184
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:185
+msgid "Repeat"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:186
+msgid "No Repeat"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:187
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:188
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:202
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:203
+msgid "Scroll"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:204
+msgid "Fixed"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:218
+msgid "Background Size"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:219
+msgid "Cover"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:220
+#, fuzzy
+#| msgid "Contains"
+msgid "Contain"
+msgstr "شامل"
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:221
+msgid "Auto"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:235
+msgid "Background Origin"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:236
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:254
+msgid "Padding Box"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:237
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:253
+msgid "Border Box"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:238
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:255
+msgid "Content Box"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:252
+msgid "Background Clip"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:269
+msgid "Background Blend Mode"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:270
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/link_color/link_color.php:36
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:186
+msgid "Normal"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:271
+msgid "Multiply"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:272
+msgid "Screen"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:273
+msgid "Overlay"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:274
+msgid "Darken"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:275
+msgid "Lighten"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:276
+msgid "Color Dodge"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:277
+msgid "Saturation"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:278
+msgid "Color"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/background/background.php:279
+msgid "Luminosity"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/backup/backup.php:29
+msgid "Export & Download"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:25
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/spacing/spacing.php:25
+msgid "top"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:26
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/spacing/spacing.php:26
+msgid "right"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:27
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:28
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/spacing/spacing.php:28
+msgid "left"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:29
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/spacing/spacing.php:29
+#, fuzzy
+#| msgid "All"
+msgid "all"
+msgstr "همه"
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:51
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:214
+msgid "Solid"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:52
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:217
+msgid "Dashed"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:53
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:216
+msgid "Dotted"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:54
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:215
+msgid "Double"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:55
+msgid "Inset"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:56
+msgid "Outset"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:57
+msgid "Groove"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:58
+msgid "ridge"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/border/border.php:59
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:199
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:213
+msgid "None"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/dimensions/dimensions.php:22
+#, fuzzy
+#| msgid "Value"
+msgid "value"
+msgstr "مقدار"
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/group/group.php:41
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/repeater/repeater.php:27
+msgid "Error: Field ID conflict."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/group/group.php:52
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/group/group.php:107
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/repeater/repeater.php:48
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/repeater/repeater.php:76
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/group/group.php:141
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/repeater/repeater.php:89
+msgid "You cannot add more."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/group/group.php:142
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/repeater/repeater.php:90
+msgid "You cannot remove more."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/icon/icon.php:20
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/icon/icon.php:53
+msgid "Add Icon"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/link/link.php:20
+msgid "Add Link"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/link/link.php:21
+msgid "Edit Link"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/link/link.php:22
+msgid "Remove Link"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/map/map.php:24
+msgid "Latitude"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/map/map.php:25
+msgid "Longitude"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/media/media.php:25
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/media/media.php:26
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/upload/upload.php:25
+msgid "Remove"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:96
+msgid "Font Family"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:97
+#, fuzzy
+#| msgid "Select tag"
+msgid "Select a font"
+msgstr "انتخاب برچسب"
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:105
+msgid "Backup Font Family"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:119
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:132
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:145
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:160
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:176
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:189
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:203
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:221
+msgid "Default"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:130
+msgid "Font Style"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:144
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:145
+msgid "Load Extra Styles"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:158
+msgid "Subset"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:168
+msgid "Text Align"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:170
+msgid "Inherit"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:171
+msgid "Left"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:172
+msgid "Center"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:173
+msgid "Right"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:174
+msgid "Justify"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:175
+msgid "Initial"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:184
+msgid "Font Variant"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:187
+msgid "Small Caps"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:188
+msgid "All Small Caps"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:197
+msgid "Text Transform"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:200
+msgid "Capitalize"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:201
+msgid "Uppercase"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:202
+msgid "Lowercase"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:211
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:218
+msgid "Wavy"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:219
+msgid "Overline"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:220
+msgid "Line-through"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:233
+msgid "Font Size"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:245
+msgid "Line Height"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:257
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:269
+msgid "Word Spacing"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:284
+msgid "Font Color"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:295
+msgid "Custom Style"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:362
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:368
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/fields/typography/typography.php:388
+msgid "Google Web Fonts"
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/actions.php:72
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/actions.php:110
+msgid "Error: Invalid key."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/actions.php:114
+msgid "Error: The response is not a valid JSON response."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/actions.php:174
+msgid "Error: Invalid term ID."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/actions.php:180
+msgid "Error: You do not have permission to do that."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/validate.php:14
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/validate.php:86
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/validate.php:32
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/validate.php:106
+msgid "Please enter a valid number."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/validate.php:50
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/validate.php:126
+msgid "This field is required."
+msgstr ""
+
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/validate.php:68
+#: inc/core/payamito-core/admin/lib/codestar-framework/functions/validate.php:146
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/payamito_show_other_plugins.php:51
+msgid "Lovely tip!"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/payamito_show_other_plugins.php:56
+msgid ""
+"The following plugins are designed with the best programming quality and "
+"very light and safe in Payamito's programming team, there will be no problem "
+"in the speed of your site by installing them."
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/payamito_show_other_plugins.php:96
+msgid "More details"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:82
+msgid "General Options"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:91
+#, fuzzy
+#| msgid "User"
+msgid "Username"
+msgstr "کاربر"
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:92
+msgid "Username in payamito website"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:97
+msgid "Password"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:98
+msgid "Password in payamito website"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:105
+msgid "Do you have a dedicated SMS line?"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:110
+#, fuzzy
+#| msgid "User phone number"
+msgid "SMS line number"
+msgstr "فیلد دریافتی شماره موبایل کاربر"
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:111
+msgid "SMS line number. If you do not know, call support"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:117
+msgid "Log settings"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:122
+msgid "Clearing logs"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:128
+msgid ""
+"Keep in mind by activating the clearing of logs. The first cleaning period "
+"is done after saving the settings"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:134
+msgid "Recurrence "
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:141
+msgid "ORDER "
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:142
+msgid "Date(ASC)"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:142
+msgid "Date(DESC)"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:148
+#, fuzzy
+#| msgid "Active"
+msgid "Active Logic"
+msgstr "فعالسازی"
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:156
+#: inc/core/payamito-core/admin/settings/register_setting.php:161
+msgid "Logic"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:171
+msgid "Param"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:183
+msgid "another plugins"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:208
+#, php-format
+msgid "Crediet: %s SMS"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/register_setting.php:210
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/summary-box.php:32
+msgid "My account"
+msgstr ""
+
+#: inc/core/payamito-core/admin/settings/summary-box.php:33
+msgid "Charge panel"
+msgstr ""
+
+#: inc/core/payamito-core/includes/class-payamito-cron.php:79
+msgid "Every two weeks"
+msgstr ""
+
+#: inc/core/payamito-core/includes/class-payamito-cron.php:80
+msgid "Every once month"
+msgstr ""
+
+#: inc/core/payamito-core/includes/class-payamito-cron.php:81
+msgid "Every three months"
+msgstr ""
+
+#: inc/core/payamito-core/includes/class-payamito-cron.php:82
+msgid "Every six months"
+msgstr ""
+
+#: inc/core/payamito-core/includes/class-payamito-cron.php:83
+msgid "Every Once year"
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:224
+msgid "Send By Pattern"
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:227
+msgid ""
+"By activating this option, you will not need to provide a dedicated service "
+"line to send to the blacklist "
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:230
+msgid ""
+"To create the pattern, refer to the Paymito panel and the service web "
+"service module"
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:235
+msgid "Pattern ID"
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:238
+msgid ""
+"Just enter the code received from the service web service section in the "
+"special tools menu in this section"
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:241
+msgid ""
+"In the SMS panel, a special tool and a submenu (service web service) are "
+"created"
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:247
+msgid "Variable"
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:250
+msgid ""
+"You have to create the numbers related to the variable in the service web "
+"service section"
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:253
+msgid "If there is a problem in this section, please contact Payamito Support"
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:259
+msgid "SMS send manual"
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:262
+msgid ""
+"Use of this section is recommended when you have a dedicated service line"
+msgstr ""
+
+#: inc/core/payamito-core/includes/utils/functions.php:265
+msgid ""
+"The project of servicing dedicated lines to service lines takes at least 1 "
+"to 2 months"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/lib/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:393
+#: inc/lib/class-tgm-plugin-activation.php:920
+#: inc/lib/class-tgm-plugin-activation.php:2626
+#: inc/lib/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:394
+#: inc/lib/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:395
+#: inc/lib/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "رد کردن پیغام"
+
+#: inc/lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1027
+#: inc/lib/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1214
+#: inc/lib/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/lib/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/lib/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/lib/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/lib/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/lib/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/lib/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/lib/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/lib/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/lib/class-tgm-plugin-activation.php:2707
+#, fuzzy, php-format
+#| msgid "Active"
+msgid "Activate %2$s"
+msgstr "فعالسازی"
+
+#: inc/lib/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2819
+#, fuzzy
+#| msgid "Active"
+msgid "Activate"
+msgstr "فعالسازی"
+
+#: inc/lib/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/lib/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/lib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3602
+#: inc/lib/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3602
+#: inc/lib/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/lib/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/lib/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/lib/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/lib/plugin-update-checker-master/Puc/v4p11/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: inc/lib/plugin-update-checker-master/Puc/v4p11/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: inc/lib/plugin-update-checker-master/Puc/v4p11/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: inc/lib/plugin-update-checker-master/Puc/v4p11/Plugin/Ui.php:214
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: inc/lib/plugin-update-checker-master/Puc/v4p11/Plugin/Ui.php:216
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: inc/lib/plugin-update-checker-master/Puc/v4p11/Plugin/Ui.php:218
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: inc/lib/plugin-update-checker-master/Puc/v4p11/Plugin/Ui.php:224
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: inc/lib/plugin-update-checker-master/Puc/v4p11/Vcs/PluginUpdateChecker.php:100
+msgid "There is no changelog available."
+msgstr ""
+
+#: inc/payamito-gf.php:95
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: inc/payamito-gf.php:105
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Payamito:Gravity Forms"
+msgstr "پیامیتو : گرویتی فرم"
+
+#. Description of the plugin/theme
+msgid "Payamito:Gravity Forms Version"
+msgstr "پیامتیو : گرویتی فرم نسخه"
+
+#. Author of the plugin/theme
+msgid "payamito"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://payamito.com/"
+msgstr ""

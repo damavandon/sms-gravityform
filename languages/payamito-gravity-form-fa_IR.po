@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Payamito:Gravity Forms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-27 18:36+0430\n"
+"PO-Revision-Date: 2022-06-27 06:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bootstrap.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.1; wp-6.0\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/class-verification.php:298
+#, php-format
+msgid ""
+"A message containing the verification code was sent to %s. Enter the "
+"verification code in the box above"
+msgstr "پیامی حاوی کد تأیید به %s ارسال شد. کد تایید را در کادر بالا وارد کنید"
+
+#: inc/admin/class-settings.php:374 inc/admin/class-settings.php:431
+msgid "Active"
+msgstr "فعالسازی"
+
+#: inc/admin/class-settings.php:451
+msgid "Admin"
+msgstr "ادمین"
+
+#: inc/admin/class-settings.php:507 inc/admin/class-settings.php:597
+msgid "Admin conditional"
+msgstr "شرط ادمین"
+
+#: inc/admin/class-settings.php:685 inc/admin/class-settings.php:797
+#: inc/admin/class-settings.php:908
+msgid "Admin message"
+msgstr "متن پیام ارسالی به ادمین"
+
+#: inc/admin/class-settings.php:663 inc/admin/class-settings.php:775
+#: inc/admin/class-settings.php:886
+msgid "Admin pattern"
+msgstr ""
+
+#: inc/admin/class-settings.php:657 inc/admin/class-settings.php:769
+#: inc/admin/class-settings.php:880
+msgid "Admin pattern ID"
+msgstr ""
+
+#: inc/admin/class-settings.php:395
+msgid "Admin phone number"
+msgstr "افزودن شماره موبایل ادمین"
+
+#: inc/admin/class-settings.php:402
+msgid "Admin Phone number "
+msgstr "شماره موبایل ادمین"
+
+#: inc/admin/class-settings.php:470
+msgid "Admin SMS"
+msgstr "محتویات پیامک ارسالی به ادمین"
+
+#: inc/admin/class-settings.php:457
+msgid "Admin SMS active"
+msgstr "فعالسازی ارسال پیامک به مدیر"
+
+#: inc/admin/class-settings.php:497 inc/admin/class-settings.php:586
+msgid "All"
+msgstr "همه"
+
+#: inc/admin/class-settings.php:498 inc/admin/class-settings.php:587
+msgid "Any"
+msgstr "هیچ کدام"
+
+#: inc/admin/class-settings.php:855
+msgid "Cancell"
+msgstr "زمانیکه فرم پرداخت کنسل شد"
+
+#: inc/admin/class-settings.php:860
+msgid "Cancelled"
+msgstr "ارسال پیامک به فرم های پرداخت که کنسل می شوند"
+
+#: inc/payamito-gf.php:95
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: inc/admin/class-settings.php:637
+msgid "Completed"
+msgstr "ارسال پیامک زمانیکه پرداخت در فرم کامل شد"
+
+#: inc/admin/class-settings.php:490 inc/admin/class-settings.php:579
+msgid "Conditional"
+msgstr "استفاده از شرط در ارسال پیامک"
+
+#: inc/admin/class-settings.php:502 inc/admin/class-settings.php:592
+msgid "Conditions is true"
+msgstr "شرط بالا درست باشد"
+
+#: inc/admin/class-settings.php:525 inc/admin/class-settings.php:615
+msgid "Contains"
+msgstr "شامل"
+
+#: inc/class-functions.php:33
+msgid "Date (dd/mm/yyyy)"
+msgstr "تاریخ (dd/mm/yyyy)"
+
+#: inc/admin/class-settings.php:298 inc/admin/class-settings.php:300
+msgid "Defualt"
+msgstr "پیشفرض"
+
+#: inc/class-functions.php:34
+msgid "Embed Post/Page Id"
+msgstr ""
+
+#: inc/class-functions.php:35
+msgid "Embed Post/Page Title"
+msgstr ""
+
+#: inc/class-functions.php:36
+msgid "Embed URL"
+msgstr ""
+
+#: inc/admin/class-settings.php:527 inc/admin/class-settings.php:617
+msgid "Ends with"
+msgstr "به پایان میرسد با"
+
+#: inc/class-functions.php:37
+msgid "Entry URL"
+msgstr "لینک وارد شده"
+
+#: inc/admin/class-settings.php:744 inc/admin/class-settings.php:749
+msgid "Failed"
+msgstr "ارسال پیامک زمانیکه پرداخت در فرم با شکست روبرو شد"
+
+#: inc/admin/class-settings.php:298
+msgid "Fields"
+msgstr ""
+
+#: inc/class-functions.php:38
+msgid "Form Id"
+msgstr "آیدی فرم"
+
+#: inc/class-functions.php:39
+msgid "Form Title"
+msgstr "عنوان فرم"
+
+#: inc/admin/class-settings.php:161 inc/admin/class-settings.php:171
+msgid "Gravity Forms"
+msgstr "گرویتی فرم"
+
+#: inc/admin/class-settings.php:523 inc/admin/class-settings.php:613
+msgid "Greater than"
+msgstr "بزرگتر از"
+
+#. Author URI of the plugin
+msgid "https://payamito.com/"
+msgstr ""
+
+#: inc/class-functions.php:32
+msgid "IP"
+msgstr "آی پی کاربر"
+
+#: inc/admin/class-settings.php:521 inc/admin/class-settings.php:611
+msgid "Is"
+msgstr "هست"
+
+#: inc/admin/class-settings.php:522 inc/admin/class-settings.php:612
+msgid "Is not"
+msgstr "نیست"
+
+#: inc/admin/class-settings.php:524 inc/admin/class-settings.php:614
+msgid "Less than"
+msgstr "کمتر از"
+
+#: inc/admin/class-settings.php:221
+msgid "Message"
+msgstr ""
+
+#: inc/admin/class-settings.php:228
+msgid "Number of OTP code"
+msgstr "تعداد ارقام کد تایید"
+
+#: inc/admin/class-settings.php:229
+msgid "Number of OTP code that you want send for user"
+msgstr ""
+"مشخص نمایید که تعداد کد تایید ارسالی در پیامک برای کاربر چند رقمی باشد."
+
+#: inc/admin/class-settings.php:207
+msgid "OTP"
+msgstr "کد تایید"
+
+#: inc/admin/class-settings.php:266
+msgid "OTP field Placeholder"
+msgstr "متن داخل فیلد تایید شماره موبایل"
+
+#: inc/admin/class-settings.php:259
+msgid "OTP field title"
+msgstr "عنوان فیلد تایید شماره موبایل"
+
+#: inc/admin/class-settings.php:184 inc/admin/class-settings.php:338
+msgid "Pattern"
+msgstr ""
+
+#: inc/admin/class-settings.php:197
+msgid "Pattern "
+msgstr ""
+
+#: inc/admin/class-settings.php:477 inc/admin/class-settings.php:566
+msgid "Pattern ID"
+msgstr ""
+
+#: inc/admin/class-settings.php:190
+msgid "Pattern ID "
+msgstr ""
+
+#: inc/class-submit-form.php:296
+msgid "Payamito"
+msgstr "پیامیتو"
+
+#. Author of the plugin
+msgid "payamito"
+msgstr ""
+
+#. Name of the plugin
+msgid "Payamito:Gravity Forms"
+msgstr "پیامیتو : گرویتی فرم"
+
+#. Description of the plugin
+msgid "Payamito:Gravity Forms Version"
+msgstr "پیامتیو : گرویتی فرم نسخه"
+
+#: inc/class-functions.php:29
+msgid "Payment Method"
+msgstr "روش های پرداخت"
+
+#: inc/admin/class-settings.php:630
+msgid "Payment SMS"
+msgstr "ارسال پیامک پرداخت ها"
+
+#: inc/class-functions.php:30
+msgid "Payment Status"
+msgstr "وضعیت پرداخت"
+
+#: inc/class-verification.php:217
+msgid "Please enter a valide mobile number in Field related to mobile number"
+msgstr "لطفا یک شماره موبایل معتبر در قسمت مربوط به شماره موبایل وارد کنید"
+
+#: inc/class-verification.php:154
+msgid "Resend"
+msgstr "ارسال مجدد"
+
+#: inc/admin/class-settings.php:347 inc/admin/class-settings.php:417
+#: inc/admin/class-settings.php:439 inc/admin/class-settings.php:672
+#: inc/admin/class-settings.php:722 inc/admin/class-settings.php:784
+#: inc/admin/class-settings.php:834 inc/admin/class-settings.php:895
+#: inc/admin/class-settings.php:945
+msgid "Select tag"
+msgstr "انتخاب برچسب"
+
+#: inc/admin/class-settings.php:244
+msgid "Send Again"
+msgstr "ارسال مجدد کد تایید"
+
+#: inc/admin/class-settings.php:464 inc/admin/class-settings.php:553
+msgid "Send by pattern"
+msgstr ""
+
+#: inc/admin/class-settings.php:650 inc/admin/class-settings.php:700
+#: inc/admin/class-settings.php:762 inc/admin/class-settings.php:812
+#: inc/admin/class-settings.php:873 inc/admin/class-settings.php:923
+msgid "Send by pattern "
+msgstr ""
+
+#: inc/admin/class-settings.php:501
+msgid "Send SMS to admin if"
+msgstr "ارسال پیام به ادمین اگر"
+
+#: inc/admin/class-settings.php:591
+msgid "Send SMS to user if"
+msgstr "ارسال پیامک به کاربر اگر"
+
+#: inc/admin/class-settings.php:642 inc/admin/class-settings.php:754
+#: inc/admin/class-settings.php:865
+msgid "Send to admin"
+msgstr "ارسال به ادمین"
+
+#: inc/admin/class-settings.php:693 inc/admin/class-settings.php:805
+#: inc/admin/class-settings.php:916
+msgid "Send to user"
+msgstr "ارسال به کاربر"
+
+#: inc/class-submit-form.php:285 inc/class-submit-form.php:292
+#, php-format
+msgid "Sending an SMS to phone number  %s was accompanied by this message| %s"
+msgstr ""
+
+#: inc/admin/class-settings.php:526 inc/admin/class-settings.php:616
+msgid "Starts with"
+msgstr "شروع شده باشد"
+
+#: inc/admin/class-settings.php:446
+msgid "Submit form SMS"
+msgstr "ارسال پیامک تایید ارسال فرم"
+
+#: inc/admin/class-settings.php:203 inc/admin/class-settings.php:970
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: inc/class-verification.php:126
+msgid ""
+"The message could not be sent due to incorrect settings. Please contact "
+"support"
+msgstr "به دلیل تنظیمات نادرست پیام ارسال نشد. لطفا با پشتیبانی تماس بگیرید"
+
+#: inc/admin/class-settings.php:165
+msgid "There is no active form. Create at least one form"
+msgstr "هیچ گونه فرمی یافت نشد، لطفا یک فرم ایجاد نمایید"
+
+#: inc/admin/class-settings.php:368
+msgid "There is no field"
+msgstr ""
+
+#: inc/class-functions.php:31
+msgid "Transaction Id"
+msgstr "کد پیگیری"
+
+#: inc/payamito-gf.php:105
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: inc/admin/class-settings.php:224
+msgid "Use {OTP},{site-name} tags"
+msgstr ""
+
+#: inc/admin/class-settings.php:540
+msgid "User"
+msgstr "کاربر"
+
+#: inc/class-functions.php:40
+msgid "User Display Name"
+msgstr "نمایش نام کاربر"
+
+#: inc/class-functions.php:41
+msgid "User Email"
+msgstr "ایمیل کاربر"
+
+#: inc/class-functions.php:42
+msgid "User Login"
+msgstr "کاربر ورود کرده"
+
+#: inc/admin/class-settings.php:735 inc/admin/class-settings.php:847
+#: inc/admin/class-settings.php:958
+msgid "User message"
+msgstr "متن پیام ارسالی به کاربر"
+
+#: inc/admin/class-settings.php:713 inc/admin/class-settings.php:825
+#: inc/admin/class-settings.php:936
+msgid "User pattern"
+msgstr ""
+
+#: inc/admin/class-settings.php:707 inc/admin/class-settings.php:819
+#: inc/admin/class-settings.php:930
+msgid "User pattern ID"
+msgstr ""
+
+#: inc/admin/class-settings.php:416
+msgid "User phone number"
+msgstr "فیلد دریافتی شماره موبایل کاربر"
+
+#: inc/admin/class-settings.php:559
+msgid "User SMS"
+msgstr ""
+
+#: inc/admin/class-settings.php:545
+msgid "User SMS active"
+msgstr "فعالسازی ارسال پیامک به کاربر"
+
+#: inc/admin/class-settings.php:533 inc/admin/class-settings.php:623
+msgid "Value"
+msgstr "مقدار"
+
+#: inc/admin/class-settings.php:426
+msgid "Verification"
+msgstr "تایید شماره موبایل "
+
+#: inc/admin/class-settings.php:438
+msgid "Verification Field"
+msgstr "فیلد تایید شماره موبایل"
+
+#: inc/admin/class-settings.php:245
+msgid "When you want the user to re-request OTP."
+msgstr ""
+"پس از چه مدت گزینه ارسال مجدد کد تایید برای کاربر فعال شود ( به ثانیه )"
+
+#: inc/admin/class-settings.php:208
+msgid "Wordpress title"
+msgstr ""
+"عنوان وردپرس\n"
+
+#: inc/admin/class-settings.php:214 inc/admin/class-settings.php:353
+#: inc/admin/class-settings.php:678 inc/admin/class-settings.php:728
+#: inc/admin/class-settings.php:790 inc/admin/class-settings.php:840
+#: inc/admin/class-settings.php:901 inc/admin/class-settings.php:951
+msgid "Your tag"
+msgstr "تگ شما"
